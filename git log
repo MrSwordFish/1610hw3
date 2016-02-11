@@ -1,0 +1,55 @@
+git log
+commit a69d688528555513ea1de164af486c66bcc10056
+Author: MrSwordFish <rejleb.uni@gmail.com>
+Date:   Tue Jan 26 18:22:11 2016 -0500
+
+    added comments and slight optimization for init
+
+commit bd09b488804372567cddcb4e5c838a827b8f8361
+Author: MrSwordFish <rejleb.uni@gmail.com>
+Date:   Tue Jan 26 17:59:33 2016 -0500
+
+    new init function and completed timestep lib
+
+commit 3e710d53373d1a45c887e3d14896a55e407754ec
+Author: MrSwordFish <rejleb.uni@gmail.com>
+Date:   Tue Jan 26 17:38:01 2016 -0500
+
+    cleaned code, removed unecessary libs
+
+commit 78ed33985fbe038447b3e0ec8de290a6b2476b94
+Author: MrSwordFish <rejleb.uni@gmail.com>
+Date:   Tue Jan 26 17:36:26 2016 -0500
+
+    antoutput now has a print function which works, correction to main
+
+commit 0138c579d44f47273104462a4224146a0a3942df
+Author: MrSwordFish <rejleb.uni@gmail.com>
+Date:   Tue Jan 26 17:08:07 2016 -0500
+
+    code for init.h and init.cc is complete
+
+commit c39a863b0741a8feb4306fe06238cd829a858b90
+Author: MrSwordFish <rejleb.uni@gmail.com>
+Date:   Tue Jan 26 16:52:45 2016 -0500
+
+    makefile correction
+
+commit 8d6ca3ce2a93fd81e59d152866fab1ca91471d5e
+Author: MrSwordFish <rejleb.uni@gmail.com>
+Date:   Tue Jan 26 16:52:21 2016 -0500
+
+    makefile created
+
+commit bc0ef8eb402b41f4d7582029e793339a790e437e
+Author: MrSwordFish <rejleb.uni@gmail.com>
+Date:   Tue Jan 26 15:41:39 2016 -0500
+
+    ants2 created along with it's modules
+
+commit 8a36f2510dab0504571b524b5466143295a304af
+Author: MrSwordFish <rejleb.uni@gmail.com>
+Date:   Tue Jan 26 14:52:03 2016 -0500
+
+    branch created
+
